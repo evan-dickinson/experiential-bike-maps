@@ -1,0 +1,12 @@
+# Jekyll configuration
+
+permalink: /:categories/:year/:month/:day/:title
+auto: true
+pygments: true
+var:
+  archive_path: /archive.html
+  categories_path: /categories.html
+  tags_path: /tags.html
+
+destination: /home/edickins/website
+source: source

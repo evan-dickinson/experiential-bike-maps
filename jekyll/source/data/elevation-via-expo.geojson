@@ -1,0 +1,1421 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pointNum": "0", "accumDst": 0.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.087212, 49.279231 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "1", "accumDst": 8.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.087322, 49.279234 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "2", "accumDst": 16.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.087432, 49.279236 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "3", "accumDst": 24.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.087542, 49.279239 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "4", "accumDst": 32.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.087651, 49.279241 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "5", "accumDst": 40.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.087761, 49.279243 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "6", "accumDst": 48.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.087871, 49.279246 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "7", "accumDst": 56.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.087981, 49.279248 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "8", "accumDst": 64.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.088090, 49.279250 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "9", "accumDst": 72.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.088200, 49.279253 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "10", "accumDst": 80.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.088310, 49.279255 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "11", "accumDst": 88.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.088420, 49.279258 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "12", "accumDst": 96.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.088530, 49.279260 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "13", "accumDst": 104.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.088639, 49.279262 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "14", "accumDst": 112.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.088749, 49.279265 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "15", "accumDst": 120.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.088859, 49.279267 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "16", "accumDst": 128.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.088969, 49.279270 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "17", "accumDst": 136.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.089079, 49.279272 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "18", "accumDst": 144.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.089188, 49.279274 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "19", "accumDst": 152.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.089298, 49.279277 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "20", "accumDst": 160.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.089408, 49.279279 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "21", "accumDst": 168.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.089518, 49.279282 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "22", "accumDst": 176.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.089627, 49.279284 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "23", "accumDst": 184.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.089737, 49.279287 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "24", "accumDst": 192.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.089847, 49.279289 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "25", "accumDst": 200.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.089957, 49.279292 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "26", "accumDst": 208.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.090067, 49.279294 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "27", "accumDst": 216.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.090176, 49.279297 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "28", "accumDst": 224.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.090286, 49.279299 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "29", "accumDst": 232.000000, "temp": "via-expo", "elevation-n-vancouver": 21.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.090396, 49.279302 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "30", "accumDst": 240.000000, "temp": "via-expo", "elevation-n-vancouver": 21.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.090506, 49.279304 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "31", "accumDst": 248.000000, "temp": "via-expo", "elevation-n-vancouver": 21.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.090616, 49.279307 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "32", "accumDst": 256.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.090725, 49.279309 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "33", "accumDst": 264.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.090835, 49.279312 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "34", "accumDst": 272.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.090945, 49.279314 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "35", "accumDst": 280.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.091055, 49.279317 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "36", "accumDst": 288.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.091164, 49.279319 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "37", "accumDst": 296.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.091274, 49.279322 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "38", "accumDst": 304.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.091384, 49.279324 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "39", "accumDst": 312.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.091494, 49.279327 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "40", "accumDst": 320.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.091604, 49.279329 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "41", "accumDst": 328.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.091713, 49.279332 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "42", "accumDst": 336.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.091823, 49.279334 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "43", "accumDst": 344.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.091933, 49.279337 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "44", "accumDst": 352.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.092043, 49.279339 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "45", "accumDst": 360.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.092152, 49.279342 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "46", "accumDst": 368.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.092262, 49.279344 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "47", "accumDst": 376.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.092372, 49.279347 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "48", "accumDst": 384.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.092482, 49.279349 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "49", "accumDst": 392.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.092592, 49.279352 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "50", "accumDst": 400.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.092701, 49.279354 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "51", "accumDst": 408.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.092811, 49.279357 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "52", "accumDst": 416.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.092921, 49.279359 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "53", "accumDst": 424.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.093031, 49.279362 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "54", "accumDst": 432.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.093140, 49.279364 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "55", "accumDst": 440.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.093250, 49.279367 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "56", "accumDst": 448.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.093360, 49.279369 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "57", "accumDst": 456.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.093470, 49.279372 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "58", "accumDst": 464.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.093580, 49.279374 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "59", "accumDst": 472.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.093689, 49.279376 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "60", "accumDst": 480.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.093799, 49.279378 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "61", "accumDst": 488.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.093909, 49.279380 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "62", "accumDst": 496.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.094019, 49.279382 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "63", "accumDst": 504.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.094129, 49.279384 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "64", "accumDst": 512.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.094238, 49.279386 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "65", "accumDst": 520.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.094348, 49.279387 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "66", "accumDst": 528.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.094458, 49.279389 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "67", "accumDst": 536.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.094568, 49.279391 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "68", "accumDst": 544.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.094678, 49.279393 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "69", "accumDst": 552.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.094788, 49.279395 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "70", "accumDst": 560.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.094897, 49.279397 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "71", "accumDst": 568.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.095007, 49.279399 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "72", "accumDst": 576.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.095117, 49.279401 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "73", "accumDst": 584.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.095227, 49.279403 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "74", "accumDst": 592.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.095337, 49.279405 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "75", "accumDst": 600.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.095446, 49.279407 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "76", "accumDst": 608.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.095556, 49.279408 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "77", "accumDst": 616.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.095666, 49.279410 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "78", "accumDst": 624.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.095776, 49.279412 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "79", "accumDst": 632.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.095886, 49.279414 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "80", "accumDst": 640.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.095995, 49.279416 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "81", "accumDst": 648.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.096105, 49.279418 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "82", "accumDst": 656.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.096215, 49.279420 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "83", "accumDst": 664.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.096325, 49.279422 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "84", "accumDst": 672.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.096435, 49.279424 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "85", "accumDst": 680.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.096545, 49.279426 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "86", "accumDst": 688.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.096654, 49.279428 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "87", "accumDst": 696.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.096764, 49.279429 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "88", "accumDst": 704.000000, "temp": "via-expo", "elevation-n-vancouver": 18.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.096874, 49.279431 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "89", "accumDst": 712.000000, "temp": "via-expo", "elevation-n-vancouver": 18.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.096984, 49.279433 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "90", "accumDst": 720.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.097094, 49.279435 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "91", "accumDst": 728.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.097203, 49.279437 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "92", "accumDst": 736.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.097313, 49.279439 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "93", "accumDst": 744.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.097423, 49.279442 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "94", "accumDst": 752.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.097533, 49.279444 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "95", "accumDst": 760.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.097643, 49.279447 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "96", "accumDst": 768.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.097752, 49.279449 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "97", "accumDst": 776.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.097862, 49.279451 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "98", "accumDst": 784.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.097972, 49.279454 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "99", "accumDst": 792.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.098082, 49.279456 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "100", "accumDst": 800.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.098191, 49.279458 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "101", "accumDst": 808.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.098301, 49.279461 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "102", "accumDst": 816.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.098411, 49.279463 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "103", "accumDst": 824.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.098521, 49.279466 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "104", "accumDst": 832.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.098631, 49.279468 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "105", "accumDst": 840.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.098740, 49.279470 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "106", "accumDst": 848.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.098850, 49.279473 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "107", "accumDst": 856.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.098960, 49.279475 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "108", "accumDst": 864.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.099070, 49.279477 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "109", "accumDst": 872.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.099180, 49.279480 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "110", "accumDst": 880.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.099289, 49.279482 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "111", "accumDst": 888.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.099399, 49.279484 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "112", "accumDst": 896.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.099509, 49.279487 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "113", "accumDst": 904.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.099619, 49.279489 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "114", "accumDst": 912.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.099729, 49.279492 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "115", "accumDst": 920.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.099838, 49.279495 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "116", "accumDst": 928.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.099948, 49.279498 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "117", "accumDst": 936.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.100058, 49.279502 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "118", "accumDst": 944.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.100167, 49.279505 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "119", "accumDst": 952.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.100277, 49.279508 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "120", "accumDst": 960.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.100387, 49.279512 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "121", "accumDst": 968.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.100497, 49.279515 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "122", "accumDst": 976.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.100606, 49.279518 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "123", "accumDst": 984.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.100716, 49.279522 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "124", "accumDst": 992.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.100826, 49.279525 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "125", "accumDst": 1000.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.100936, 49.279528 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "126", "accumDst": 1008.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.101045, 49.279532 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "127", "accumDst": 1016.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.101155, 49.279535 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "128", "accumDst": 1024.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.101263, 49.279532 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "129", "accumDst": 1032.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.101365, 49.279505 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "130", "accumDst": 1040.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.101467, 49.279479 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "131", "accumDst": 1048.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.101569, 49.279452 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "132", "accumDst": 1056.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.101671, 49.279426 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "133", "accumDst": 1064.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.101773, 49.279399 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "134", "accumDst": 1072.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.101875, 49.279372 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "135", "accumDst": 1080.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.101978, 49.279346 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "136", "accumDst": 1088.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.102080, 49.279319 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "137", "accumDst": 1096.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.102182, 49.279292 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "138", "accumDst": 1104.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.102284, 49.279266 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "139", "accumDst": 1112.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.102386, 49.279239 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "140", "accumDst": 1120.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.102488, 49.279213 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "141", "accumDst": 1128.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.102596, 49.279210 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "142", "accumDst": 1136.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.102706, 49.279212 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "143", "accumDst": 1144.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.102816, 49.279214 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "144", "accumDst": 1152.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.102926, 49.279216 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "145", "accumDst": 1160.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.103035, 49.279218 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "146", "accumDst": 1168.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.103145, 49.279220 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "147", "accumDst": 1176.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.103255, 49.279222 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "148", "accumDst": 1184.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.103365, 49.279224 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "149", "accumDst": 1192.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.103475, 49.279226 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "150", "accumDst": 1200.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.103585, 49.279228 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "151", "accumDst": 1208.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.103694, 49.279230 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "152", "accumDst": 1216.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.103804, 49.279232 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "153", "accumDst": 1224.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.103914, 49.279234 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "154", "accumDst": 1232.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104024, 49.279237 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "155", "accumDst": 1240.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104134, 49.279239 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "156", "accumDst": 1248.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104243, 49.279241 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "157", "accumDst": 1256.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104353, 49.279243 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "158", "accumDst": 1264.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104453, 49.279236 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "159", "accumDst": 1272.000000, "temp": "via-expo", "elevation-n-vancouver": 4.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104488, 49.279167 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "160", "accumDst": 1280.000000, "temp": "via-expo", "elevation-n-vancouver": 4.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104523, 49.279099 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "161", "accumDst": 1288.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104559, 49.279031 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "162", "accumDst": 1296.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104594, 49.278963 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "163", "accumDst": 1304.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104658, 49.278905 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "164", "accumDst": 1312.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104724, 49.278847 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "165", "accumDst": 1320.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104797, 49.278793 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "166", "accumDst": 1328.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104875, 49.278743 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "167", "accumDst": 1336.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.104954, 49.278693 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "168", "accumDst": 1344.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105037, 49.278647 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "169", "accumDst": 1352.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105132, 49.278610 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "170", "accumDst": 1360.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105227, 49.278574 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "171", "accumDst": 1368.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105322, 49.278537 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "172", "accumDst": 1376.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105416, 49.278501 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "173", "accumDst": 1384.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105511, 49.278464 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "174", "accumDst": 1392.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105606, 49.278428 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "175", "accumDst": 1400.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105690, 49.278382 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "176", "accumDst": 1408.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105775, 49.278336 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "177", "accumDst": 1416.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105860, 49.278291 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "178", "accumDst": 1424.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.105945, 49.278245 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "179", "accumDst": 1432.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106012, 49.278188 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "180", "accumDst": 1440.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106074, 49.278129 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "181", "accumDst": 1448.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106136, 49.278069 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "182", "accumDst": 1456.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106234, 49.278086 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "183", "accumDst": 1464.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106336, 49.278112 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "184", "accumDst": 1472.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106438, 49.278139 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "185", "accumDst": 1480.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106540, 49.278165 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "186", "accumDst": 1488.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106642, 49.278192 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "187", "accumDst": 1496.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106744, 49.278218 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "188", "accumDst": 1504.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106846, 49.278245 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "189", "accumDst": 1512.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.106933, 49.278289 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "190", "accumDst": 1520.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107020, 49.278333 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "191", "accumDst": 1528.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107106, 49.278378 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "192", "accumDst": 1536.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107193, 49.278422 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "193", "accumDst": 1544.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107279, 49.278467 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "194", "accumDst": 1552.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107365, 49.278511 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "195", "accumDst": 1560.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107452, 49.278555 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "196", "accumDst": 1568.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107543, 49.278594 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "197", "accumDst": 1576.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107644, 49.278623 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "198", "accumDst": 1584.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107745, 49.278651 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "199", "accumDst": 1592.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107846, 49.278679 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "200", "accumDst": 1600.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.107947, 49.278708 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "201", "accumDst": 1608.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.108050, 49.278731 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "202", "accumDst": 1616.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.108159, 49.278726 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "203", "accumDst": 1624.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.108269, 49.278721 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "204", "accumDst": 1632.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.108378, 49.278716 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "205", "accumDst": 1640.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.108488, 49.278712 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "206", "accumDst": 1648.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.108598, 49.278707 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "207", "accumDst": 1656.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.108699, 49.278687 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "208", "accumDst": 1664.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.108788, 49.278645 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "209", "accumDst": 1672.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.108877, 49.278602 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "210", "accumDst": 1680.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.108965, 49.278560 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "211", "accumDst": 1688.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109054, 49.278518 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "212", "accumDst": 1696.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109143, 49.278475 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "213", "accumDst": 1704.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109232, 49.278433 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "214", "accumDst": 1712.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109321, 49.278390 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "215", "accumDst": 1720.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109409, 49.278348 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "216", "accumDst": 1728.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109498, 49.278306 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "217", "accumDst": 1736.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109587, 49.278263 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "218", "accumDst": 1744.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109676, 49.278221 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "219", "accumDst": 1752.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109765, 49.278178 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "220", "accumDst": 1760.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109853, 49.278136 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "221", "accumDst": 1768.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.109943, 49.278094 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "222", "accumDst": 1776.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.110033, 49.278053 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "223", "accumDst": 1784.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.110122, 49.278011 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "224", "accumDst": 1792.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.110212, 49.277970 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "225", "accumDst": 1800.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.110302, 49.277928 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "226", "accumDst": 1808.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.110397, 49.277895 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "227", "accumDst": 1816.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.110506, 49.277887 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "228", "accumDst": 1824.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.110615, 49.277879 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "229", "accumDst": 1832.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.110724, 49.277870 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "230", "accumDst": 1840.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.110833, 49.277862 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "231", "accumDst": 1848.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.110942, 49.277853 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "232", "accumDst": 1856.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.111051, 49.277845 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "233", "accumDst": 1864.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.111160, 49.277851 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "234", "accumDst": 1872.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.111268, 49.277862 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "235", "accumDst": 1880.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.111377, 49.277874 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "236", "accumDst": 1888.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.111485, 49.277886 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "237", "accumDst": 1896.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.111593, 49.277897 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "238", "accumDst": 1904.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.111701, 49.277902 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "239", "accumDst": 1912.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.111805, 49.277880 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "240", "accumDst": 1920.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.111910, 49.277858 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "241", "accumDst": 1928.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112015, 49.277836 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "242", "accumDst": 1936.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112119, 49.277814 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "243", "accumDst": 1944.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112224, 49.277792 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "244", "accumDst": 1952.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112328, 49.277769 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "245", "accumDst": 1960.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112417, 49.277727 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "246", "accumDst": 1968.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112505, 49.277684 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "247", "accumDst": 1976.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112593, 49.277641 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "248", "accumDst": 1984.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112682, 49.277599 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "249", "accumDst": 1992.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112770, 49.277556 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "250", "accumDst": 2000.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112859, 49.277513 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "251", "accumDst": 2008.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.112947, 49.277470 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "252", "accumDst": 2016.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113035, 49.277428 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "253", "accumDst": 2024.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113124, 49.277385 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "254", "accumDst": 2032.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113212, 49.277342 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "255", "accumDst": 2040.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113301, 49.277299 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "256", "accumDst": 2048.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113389, 49.277257 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "257", "accumDst": 2056.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113470, 49.277209 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "258", "accumDst": 2064.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113537, 49.277152 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "259", "accumDst": 2072.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113604, 49.277095 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "260", "accumDst": 2080.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113671, 49.277038 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "261", "accumDst": 2088.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113738, 49.276981 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "262", "accumDst": 2096.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113776, 49.276915 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "263", "accumDst": 2104.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113801, 49.276845 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "264", "accumDst": 2112.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113827, 49.276775 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "265", "accumDst": 2120.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113852, 49.276704 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "266", "accumDst": 2128.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113877, 49.276634 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "267", "accumDst": 2136.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113902, 49.276564 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "268", "accumDst": 2144.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.113934, 49.276496 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "269", "accumDst": 2152.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114003, 49.276440 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "270", "accumDst": 2160.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114072, 49.276384 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "271", "accumDst": 2168.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114141, 49.276328 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "272", "accumDst": 2176.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114210, 49.276272 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "273", "accumDst": 2184.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114279, 49.276216 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "274", "accumDst": 2192.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114348, 49.276160 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "275", "accumDst": 2200.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114417, 49.276104 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "276", "accumDst": 2208.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114486, 49.276048 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "277", "accumDst": 2216.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114555, 49.275992 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "278", "accumDst": 2224.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114624, 49.275936 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "279", "accumDst": 2232.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114694, 49.275880 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "280", "accumDst": 2240.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114763, 49.275824 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "281", "accumDst": 2248.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114832, 49.275768 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "282", "accumDst": 2256.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114901, 49.275712 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "283", "accumDst": 2264.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.114970, 49.275656 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "284", "accumDst": 2272.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115039, 49.275600 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "285", "accumDst": 2280.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115108, 49.275544 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "286", "accumDst": 2288.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115177, 49.275489 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "287", "accumDst": 2296.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115246, 49.275433 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "288", "accumDst": 2304.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115316, 49.275377 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "289", "accumDst": 2312.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115388, 49.275322 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "290", "accumDst": 2320.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115459, 49.275268 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "291", "accumDst": 2328.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115530, 49.275213 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "292", "accumDst": 2336.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115602, 49.275158 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "293", "accumDst": 2344.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115673, 49.275103 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "294", "accumDst": 2352.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115744, 49.275049 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "295", "accumDst": 2360.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115816, 49.274994 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "296", "accumDst": 2368.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115887, 49.274939 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "297", "accumDst": 2376.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.115958, 49.274885 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "298", "accumDst": 2384.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116030, 49.274830 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "299", "accumDst": 2392.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116101, 49.274775 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "300", "accumDst": 2400.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116173, 49.274720 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "301", "accumDst": 2408.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116250, 49.274670 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "302", "accumDst": 2416.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116343, 49.274632 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "303", "accumDst": 2424.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116436, 49.274594 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "304", "accumDst": 2432.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116530, 49.274556 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "305", "accumDst": 2440.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116623, 49.274518 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "306", "accumDst": 2448.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116723, 49.274493 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "307", "accumDst": 2456.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116832, 49.274483 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "308", "accumDst": 2464.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.116941, 49.274473 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "309", "accumDst": 2472.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.117050, 49.274463 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "310", "accumDst": 2480.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.117159, 49.274454 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "311", "accumDst": 2488.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.117267, 49.274444 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "312", "accumDst": 2496.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.117376, 49.274434 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "313", "accumDst": 2504.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.117486, 49.274434 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "314", "accumDst": 2512.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.117596, 49.274434 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "315", "accumDst": 2520.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.117706, 49.274434 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "316", "accumDst": 2528.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.117816, 49.274434 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "317", "accumDst": 2536.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.117925, 49.274434 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "318", "accumDst": 2544.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.118035, 49.274438 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "319", "accumDst": 2552.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.118144, 49.274447 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "320", "accumDst": 2560.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.118253, 49.274456 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "321", "accumDst": 2568.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.118362, 49.274465 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "322", "accumDst": 2576.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.118471, 49.274474 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "323", "accumDst": 2584.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.118580, 49.274483 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "324", "accumDst": 2592.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.118689, 49.274492 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "325", "accumDst": 2600.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.118798, 49.274501 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "326", "accumDst": 2608.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.118907, 49.274510 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "327", "accumDst": 2616.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.119016, 49.274519 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "328", "accumDst": 2624.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.119125, 49.274528 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "329", "accumDst": 2632.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.119232, 49.274528 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "330", "accumDst": 2640.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.119336, 49.274505 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "331", "accumDst": 2648.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.119440, 49.274482 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "332", "accumDst": 2656.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.119544, 49.274459 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "333", "accumDst": 2664.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.119649, 49.274436 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "334", "accumDst": 2672.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.119753, 49.274413 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "335", "accumDst": 2680.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.119857, 49.274390 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "336", "accumDst": 2688.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.119961, 49.274367 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "337", "accumDst": 2696.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.120065, 49.274344 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "338", "accumDst": 2704.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.120169, 49.274321 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "339", "accumDst": 2712.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.120273, 49.274298 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "340", "accumDst": 2720.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.120377, 49.274276 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "341", "accumDst": 2728.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.120482, 49.274253 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "342", "accumDst": 2736.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.120586, 49.274230 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "343", "accumDst": 2744.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.120690, 49.274207 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "344", "accumDst": 2752.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.120793, 49.274182 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "345", "accumDst": 2760.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.120896, 49.274157 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "346", "accumDst": 2768.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.120998, 49.274131 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "347", "accumDst": 2776.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.121101, 49.274105 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "348", "accumDst": 2784.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.121203, 49.274079 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "349", "accumDst": 2792.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.121306, 49.274054 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "350", "accumDst": 2800.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.121409, 49.274028 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "351", "accumDst": 2808.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.121511, 49.274002 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "352", "accumDst": 2816.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.121614, 49.273977 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "353", "accumDst": 2824.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.121716, 49.273951 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "354", "accumDst": 2832.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.121819, 49.273925 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "355", "accumDst": 2840.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.121922, 49.273899 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "356", "accumDst": 2848.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.122024, 49.273874 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "357", "accumDst": 2856.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.122127, 49.273848 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "358", "accumDst": 2864.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.122229, 49.273822 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "359", "accumDst": 2872.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.122332, 49.273797 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "360", "accumDst": 2880.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.122434, 49.273771 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "361", "accumDst": 2888.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.122537, 49.273745 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "362", "accumDst": 2896.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.122640, 49.273719 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "363", "accumDst": 2904.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.122742, 49.273694 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "364", "accumDst": 2912.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.122845, 49.273668 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "365", "accumDst": 2920.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.122947, 49.273642 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "366", "accumDst": 2928.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.123050, 49.273616 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "367", "accumDst": 2936.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.123153, 49.273591 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "368", "accumDst": 2944.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.123255, 49.273565 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "369", "accumDst": 2952.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.123358, 49.273539 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "370", "accumDst": 2960.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.123460, 49.273514 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "371", "accumDst": 2968.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.123563, 49.273488 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "372", "accumDst": 2976.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.123665, 49.273462 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "373", "accumDst": 2984.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.123767, 49.273434 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "374", "accumDst": 2992.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.123868, 49.273407 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "375", "accumDst": 3000.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.123970, 49.273379 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "376", "accumDst": 3008.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.124071, 49.273351 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "377", "accumDst": 3016.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.124172, 49.273324 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "378", "accumDst": 3024.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.124274, 49.273296 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "379", "accumDst": 3032.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.124375, 49.273268 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "380", "accumDst": 3040.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.124476, 49.273240 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "381", "accumDst": 3048.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.124578, 49.273213 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "382", "accumDst": 3056.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.124679, 49.273185 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "383", "accumDst": 3064.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.124781, 49.273157 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "384", "accumDst": 3072.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.124882, 49.273130 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "385", "accumDst": 3080.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.124983, 49.273102 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "386", "accumDst": 3088.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.125085, 49.273074 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "387", "accumDst": 3096.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.125190, 49.273059 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "388", "accumDst": 3104.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.125300, 49.273059 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "389", "accumDst": 3112.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.125410, 49.273059 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "390", "accumDst": 3120.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.125519, 49.273063 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "391", "accumDst": 3128.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.125628, 49.273070 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "392", "accumDst": 3136.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.125737, 49.273078 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "393", "accumDst": 3144.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.125847, 49.273086 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "394", "accumDst": 3152.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.125956, 49.273094 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "395", "accumDst": 3160.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126065, 49.273102 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "396", "accumDst": 3168.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126163, 49.273131 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "397", "accumDst": 3176.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126255, 49.273170 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "398", "accumDst": 3184.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126347, 49.273209 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "399", "accumDst": 3192.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126440, 49.273248 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "400", "accumDst": 3200.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126532, 49.273287 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "401", "accumDst": 3208.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126624, 49.273326 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "402", "accumDst": 3216.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126716, 49.273366 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "403", "accumDst": 3224.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126808, 49.273405 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "404", "accumDst": 3232.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126900, 49.273444 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "405", "accumDst": 3240.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.126993, 49.273483 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "406", "accumDst": 3248.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127085, 49.273522 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "407", "accumDst": 3256.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127167, 49.273569 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "408", "accumDst": 3264.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127235, 49.273625 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "409", "accumDst": 3272.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127303, 49.273682 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "410", "accumDst": 3280.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127371, 49.273738 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "411", "accumDst": 3288.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127439, 49.273795 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "412", "accumDst": 3296.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127507, 49.273851 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "413", "accumDst": 3304.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127576, 49.273907 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "414", "accumDst": 3312.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127654, 49.273958 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "415", "accumDst": 3320.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127733, 49.274008 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "416", "accumDst": 3328.000000, "temp": "via-expo", "elevation-n-vancouver": 18.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127811, 49.274059 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "417", "accumDst": 3336.000000, "temp": "via-expo", "elevation-n-vancouver": 18.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127889, 49.274109 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "418", "accumDst": 3344.000000, "temp": "via-expo", "elevation-n-vancouver": 18.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.127967, 49.274160 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "419", "accumDst": 3352.000000, "temp": "via-expo", "elevation-n-vancouver": 18.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128046, 49.274210 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "420", "accumDst": 3360.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128124, 49.274261 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "421", "accumDst": 3368.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128202, 49.274311 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "422", "accumDst": 3376.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128280, 49.274362 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "423", "accumDst": 3384.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128358, 49.274412 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "424", "accumDst": 3392.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128437, 49.274463 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "425", "accumDst": 3400.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128515, 49.274513 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "426", "accumDst": 3408.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128593, 49.274564 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "427", "accumDst": 3416.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128671, 49.274615 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "428", "accumDst": 3424.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128750, 49.274665 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "429", "accumDst": 3432.000000, "temp": "via-expo", "elevation-n-vancouver": 20.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128828, 49.274716 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "430", "accumDst": 3440.000000, "temp": "via-expo", "elevation-n-vancouver": 21.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128906, 49.274766 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "431", "accumDst": 3448.000000, "temp": "via-expo", "elevation-n-vancouver": 21.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.128984, 49.274817 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "432", "accumDst": 3456.000000, "temp": "via-expo", "elevation-n-vancouver": 21.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129063, 49.274867 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "433", "accumDst": 3464.000000, "temp": "via-expo", "elevation-n-vancouver": 21.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129141, 49.274918 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "434", "accumDst": 3472.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129219, 49.274968 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "435", "accumDst": 3480.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129297, 49.275019 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "436", "accumDst": 3488.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129375, 49.275069 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "437", "accumDst": 3496.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129454, 49.275120 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "438", "accumDst": 3504.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129532, 49.275170 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "439", "accumDst": 3512.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129610, 49.275221 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "440", "accumDst": 3520.000000, "temp": "via-expo", "elevation-n-vancouver": 22.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129689, 49.275271 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "441", "accumDst": 3528.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129768, 49.275321 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "442", "accumDst": 3536.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129847, 49.275371 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "443", "accumDst": 3544.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.129927, 49.275421 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "444", "accumDst": 3552.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130006, 49.275471 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "445", "accumDst": 3560.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130085, 49.275521 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "446", "accumDst": 3568.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130164, 49.275570 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "447", "accumDst": 3576.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130244, 49.275620 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "448", "accumDst": 3584.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130323, 49.275670 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "449", "accumDst": 3592.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130402, 49.275720 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "450", "accumDst": 3600.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130481, 49.275770 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "451", "accumDst": 3608.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130560, 49.275820 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "452", "accumDst": 3616.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130640, 49.275870 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "453", "accumDst": 3624.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130719, 49.275920 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "454", "accumDst": 3632.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130798, 49.275969 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "455", "accumDst": 3640.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130877, 49.276019 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "456", "accumDst": 3648.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.130956, 49.276069 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "457", "accumDst": 3656.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131036, 49.276119 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "458", "accumDst": 3664.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131115, 49.276169 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "459", "accumDst": 3672.000000, "temp": "via-expo", "elevation-n-vancouver": 26.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131216, 49.276195 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "460", "accumDst": 3680.000000, "temp": "via-expo", "elevation-n-vancouver": 26.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131320, 49.276218 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "461", "accumDst": 3688.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131422, 49.276243 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "462", "accumDst": 3696.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131493, 49.276298 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "463", "accumDst": 3704.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131564, 49.276353 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "464", "accumDst": 3712.000000, "temp": "via-expo", "elevation-n-vancouver": 25.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131635, 49.276408 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "465", "accumDst": 3720.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131706, 49.276463 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "466", "accumDst": 3728.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131776, 49.276518 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "467", "accumDst": 3736.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131847, 49.276573 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "468", "accumDst": 3744.000000, "temp": "via-expo", "elevation-n-vancouver": 27.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131918, 49.276628 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "469", "accumDst": 3752.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.131989, 49.276683 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "470", "accumDst": 3760.000000, "temp": "via-expo", "elevation-n-vancouver": 24.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132060, 49.276738 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "471", "accumDst": 3768.000000, "temp": "via-expo", "elevation-n-vancouver": 27.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132131, 49.276793 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "472", "accumDst": 3776.000000, "temp": "via-expo", "elevation-n-vancouver": 26.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132202, 49.276848 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "473", "accumDst": 3784.000000, "temp": "via-expo", "elevation-n-vancouver": 26.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132272, 49.276903 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "474", "accumDst": 3792.000000, "temp": "via-expo", "elevation-n-vancouver": 26.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132343, 49.276958 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "475", "accumDst": 3800.000000, "temp": "via-expo", "elevation-n-vancouver": 26.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132434, 49.276948 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "476", "accumDst": 3808.000000, "temp": "via-expo", "elevation-n-vancouver": 26.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132532, 49.276915 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "477", "accumDst": 3816.000000, "temp": "via-expo", "elevation-n-vancouver": 26.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132630, 49.276882 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "478", "accumDst": 3824.000000, "temp": "via-expo", "elevation-n-vancouver": 26.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132728, 49.276849 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "479", "accumDst": 3832.000000, "temp": "via-expo", "elevation-n-vancouver": 26.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132825, 49.276816 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "480", "accumDst": 3840.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.132923, 49.276784 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "481", "accumDst": 3848.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133021, 49.276751 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "482", "accumDst": 3856.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133119, 49.276718 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "483", "accumDst": 3864.000000, "temp": "via-expo", "elevation-n-vancouver": 23.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133217, 49.276685 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "484", "accumDst": 3872.000000, "temp": "via-expo", "elevation-n-vancouver": 18.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133314, 49.276653 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "485", "accumDst": 3880.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133412, 49.276620 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "486", "accumDst": 3888.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133510, 49.276587 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "487", "accumDst": 3896.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133608, 49.276554 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "488", "accumDst": 3904.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133706, 49.276522 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "489", "accumDst": 3912.000000, "temp": "via-expo", "elevation-n-vancouver": 14.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133803, 49.276489 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "490", "accumDst": 3920.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133901, 49.276456 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "491", "accumDst": 3928.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.133999, 49.276423 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "492", "accumDst": 3936.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.134097, 49.276390 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "493", "accumDst": 3944.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.134195, 49.276358 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "494", "accumDst": 3952.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.134293, 49.276326 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "495", "accumDst": 3960.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.134392, 49.276294 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "496", "accumDst": 3968.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.134491, 49.276263 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "497", "accumDst": 3976.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.134589, 49.276231 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "498", "accumDst": 3984.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.134688, 49.276200 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "499", "accumDst": 3992.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.134787, 49.276168 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "500", "accumDst": 4000.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.134885, 49.276136 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "501", "accumDst": 4008.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.134984, 49.276105 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "502", "accumDst": 4016.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.135083, 49.276073 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "503", "accumDst": 4024.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.135181, 49.276041 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "504", "accumDst": 4032.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.135280, 49.276010 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "505", "accumDst": 4040.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.135379, 49.275978 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "506", "accumDst": 4048.000000, "temp": "via-expo", "elevation-n-vancouver": 4.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.135477, 49.275947 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "507", "accumDst": 4056.000000, "temp": "via-expo", "elevation-n-vancouver": 4.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.135576, 49.275915 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "508", "accumDst": 4064.000000, "temp": "via-expo", "elevation-n-vancouver": 4.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.135675, 49.275883 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "509", "accumDst": 4072.000000, "temp": "via-expo", "elevation-n-vancouver": 3.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.135773, 49.275852 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "510", "accumDst": 4080.000000, "temp": "via-expo", "elevation-n-vancouver": 3.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.135872, 49.275820 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "511", "accumDst": 4088.000000, "temp": "via-expo", "elevation-n-vancouver": 3.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.135971, 49.275788 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "512", "accumDst": 4096.000000, "temp": "via-expo", "elevation-n-vancouver": 2.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.136070, 49.275757 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "513", "accumDst": 4104.000000, "temp": "via-expo", "elevation-n-vancouver": 2.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.136168, 49.275725 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "514", "accumDst": 4112.000000, "temp": "via-expo", "elevation-n-vancouver": 2.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.136267, 49.275693 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "515", "accumDst": 4120.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.136366, 49.275662 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "516", "accumDst": 4128.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.136464, 49.275630 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "517", "accumDst": 4136.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.136563, 49.275599 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "518", "accumDst": 4144.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.136662, 49.275567 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "519", "accumDst": 4152.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.136760, 49.275535 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "520", "accumDst": 4160.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.136859, 49.275504 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "521", "accumDst": 4168.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.136958, 49.275472 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "522", "accumDst": 4176.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.137056, 49.275440 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "523", "accumDst": 4184.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.137155, 49.275409 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "524", "accumDst": 4192.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.137254, 49.275377 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "525", "accumDst": 4200.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.137352, 49.275346 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "526", "accumDst": 4208.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.137451, 49.275314 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "527", "accumDst": 4216.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.137550, 49.275282 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "528", "accumDst": 4224.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.137648, 49.275251 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "529", "accumDst": 4232.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.137747, 49.275219 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "530", "accumDst": 4240.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.137846, 49.275187 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "531", "accumDst": 4248.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.137944, 49.275156 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "532", "accumDst": 4256.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.138043, 49.275124 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "533", "accumDst": 4264.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.138142, 49.275092 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "534", "accumDst": 4272.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.138240, 49.275061 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "535", "accumDst": 4280.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.138339, 49.275029 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "536", "accumDst": 4288.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.138438, 49.274998 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "537", "accumDst": 4296.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.138536, 49.274966 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "538", "accumDst": 4304.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.138635, 49.274934 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "539", "accumDst": 4312.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.138734, 49.274903 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "540", "accumDst": 4320.000000, "temp": "via-expo", "elevation-n-vancouver": 0.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.138832, 49.274871 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "541", "accumDst": 4328.000000, "temp": "via-expo", "elevation-n-vancouver": 2.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.138931, 49.274839 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "542", "accumDst": 4336.000000, "temp": "via-expo", "elevation-n-vancouver": 3.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.139030, 49.274808 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "543", "accumDst": 4344.000000, "temp": "via-expo", "elevation-n-vancouver": 3.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.139128, 49.274776 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "544", "accumDst": 4352.000000, "temp": "via-expo", "elevation-n-vancouver": 3.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.139227, 49.274744 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "545", "accumDst": 4360.000000, "temp": "via-expo", "elevation-n-vancouver": 4.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.139325, 49.274713 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "546", "accumDst": 4368.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.139424, 49.274681 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "547", "accumDst": 4376.000000, "temp": "via-expo", "elevation-n-vancouver": 5.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.139523, 49.274649 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "548", "accumDst": 4384.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.139621, 49.274617 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "549", "accumDst": 4392.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.139720, 49.274585 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "550", "accumDst": 4400.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.139818, 49.274554 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "551", "accumDst": 4408.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.139917, 49.274522 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "552", "accumDst": 4416.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.140015, 49.274490 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "553", "accumDst": 4424.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.140114, 49.274458 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "554", "accumDst": 4432.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.140212, 49.274426 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "555", "accumDst": 4440.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.140311, 49.274395 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "556", "accumDst": 4448.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.140409, 49.274363 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "557", "accumDst": 4456.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.140508, 49.274331 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "558", "accumDst": 4464.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.140606, 49.274299 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "559", "accumDst": 4472.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.140705, 49.274267 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "560", "accumDst": 4480.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.140803, 49.274235 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "561", "accumDst": 4488.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.140902, 49.274204 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "562", "accumDst": 4496.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141001, 49.274172 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "563", "accumDst": 4504.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141099, 49.274140 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "564", "accumDst": 4512.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141198, 49.274108 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "565", "accumDst": 4520.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141296, 49.274076 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "566", "accumDst": 4528.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141395, 49.274045 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "567", "accumDst": 4536.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141493, 49.274013 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "568", "accumDst": 4544.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141592, 49.273981 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "569", "accumDst": 4552.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141690, 49.273949 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "570", "accumDst": 4560.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141789, 49.273917 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "571", "accumDst": 4568.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141887, 49.273885 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "572", "accumDst": 4576.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.141986, 49.273854 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "573", "accumDst": 4584.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.142084, 49.273822 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "574", "accumDst": 4592.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.142183, 49.273790 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "575", "accumDst": 4600.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.142281, 49.273758 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "576", "accumDst": 4608.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.142380, 49.273726 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "577", "accumDst": 4616.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.142478, 49.273695 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "578", "accumDst": 4624.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.142577, 49.273663 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "579", "accumDst": 4632.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.142676, 49.273631 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "580", "accumDst": 4640.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.142774, 49.273599 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "581", "accumDst": 4648.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.142873, 49.273567 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "582", "accumDst": 4656.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.142971, 49.273536 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "583", "accumDst": 4664.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.143070, 49.273504 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "584", "accumDst": 4672.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.143168, 49.273472 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "585", "accumDst": 4680.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.143267, 49.273440 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "586", "accumDst": 4688.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.143365, 49.273408 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "587", "accumDst": 4696.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.143464, 49.273376 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "588", "accumDst": 4704.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.143562, 49.273345 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "589", "accumDst": 4712.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.143661, 49.273313 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "590", "accumDst": 4720.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.143759, 49.273281 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "591", "accumDst": 4728.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.143858, 49.273249 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "592", "accumDst": 4736.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.143956, 49.273217 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "593", "accumDst": 4744.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.144055, 49.273186 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "594", "accumDst": 4752.000000, "temp": "via-expo", "elevation-n-vancouver": 19.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.144153, 49.273154 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "595", "accumDst": 4760.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.144252, 49.273122 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "596", "accumDst": 4768.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.144350, 49.273090 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "597", "accumDst": 4776.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.144449, 49.273058 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "598", "accumDst": 4784.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.144548, 49.273026 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "599", "accumDst": 4792.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.144646, 49.272995 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "600", "accumDst": 4800.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.144745, 49.272963 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "601", "accumDst": 4808.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.144843, 49.272931 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "602", "accumDst": 4816.000000, "temp": "via-expo", "elevation-n-vancouver": 17.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.144942, 49.272899 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "603", "accumDst": 4824.000000, "temp": "via-expo", "elevation-n-vancouver": 16.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.145040, 49.272867 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "604", "accumDst": 4832.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.145139, 49.272836 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "605", "accumDst": 4840.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.145237, 49.272804 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "606", "accumDst": 4848.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.145336, 49.272772 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "607", "accumDst": 4856.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.145434, 49.272740 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "608", "accumDst": 4864.000000, "temp": "via-expo", "elevation-n-vancouver": 15.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.145533, 49.272708 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "609", "accumDst": 4872.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.145631, 49.272676 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "610", "accumDst": 4880.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.145730, 49.272645 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "611", "accumDst": 4888.000000, "temp": "via-expo", "elevation-n-vancouver": 13.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.145828, 49.272613 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "612", "accumDst": 4896.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.145927, 49.272581 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "613", "accumDst": 4904.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.146025, 49.272549 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "614", "accumDst": 4912.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.146124, 49.272517 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "615", "accumDst": 4920.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.146222, 49.272486 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "616", "accumDst": 4928.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.146321, 49.272454 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "617", "accumDst": 4936.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.146425, 49.272440 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "618", "accumDst": 4944.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.146535, 49.272443 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "619", "accumDst": 4952.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.146645, 49.272446 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "620", "accumDst": 4960.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.146754, 49.272450 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "621", "accumDst": 4968.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.146864, 49.272453 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "622", "accumDst": 4976.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.146974, 49.272456 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "623", "accumDst": 4984.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147083, 49.272460 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "624", "accumDst": 4992.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147193, 49.272463 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "625", "accumDst": 5000.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147303, 49.272467 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "626", "accumDst": 5008.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147413, 49.272470 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "627", "accumDst": 5016.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147522, 49.272473 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "628", "accumDst": 5024.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147632, 49.272477 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "629", "accumDst": 5032.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147742, 49.272480 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "630", "accumDst": 5040.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147800, 49.272515 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "631", "accumDst": 5048.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147798, 49.272587 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "632", "accumDst": 5056.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147795, 49.272659 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "633", "accumDst": 5064.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147792, 49.272730 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "634", "accumDst": 5072.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147790, 49.272802 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "635", "accumDst": 5080.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147787, 49.272874 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "636", "accumDst": 5088.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147784, 49.272946 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "637", "accumDst": 5096.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147782, 49.273018 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "638", "accumDst": 5104.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147779, 49.273090 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "639", "accumDst": 5112.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147777, 49.273162 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "640", "accumDst": 5120.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147774, 49.273234 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "641", "accumDst": 5128.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147771, 49.273306 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "642", "accumDst": 5136.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147769, 49.273378 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "643", "accumDst": 5144.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147766, 49.273450 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "644", "accumDst": 5152.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147763, 49.273522 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "645", "accumDst": 5160.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147761, 49.273594 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "646", "accumDst": 5168.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147758, 49.273666 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "647", "accumDst": 5176.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147756, 49.273738 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "648", "accumDst": 5184.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147753, 49.273810 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "649", "accumDst": 5192.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147750, 49.273882 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "650", "accumDst": 5200.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147748, 49.273954 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "651", "accumDst": 5208.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147745, 49.274026 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "652", "accumDst": 5216.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147742, 49.274098 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "653", "accumDst": 5224.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147740, 49.274170 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "654", "accumDst": 5232.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147737, 49.274242 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "655", "accumDst": 5240.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147735, 49.274314 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "656", "accumDst": 5248.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147732, 49.274386 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "657", "accumDst": 5256.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147729, 49.274458 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "658", "accumDst": 5264.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147727, 49.274530 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "659", "accumDst": 5272.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147724, 49.274602 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "660", "accumDst": 5280.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147721, 49.274674 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "661", "accumDst": 5288.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147719, 49.274746 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "662", "accumDst": 5296.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147716, 49.274818 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "663", "accumDst": 5304.000000, "temp": "via-expo", "elevation-n-vancouver": 12.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147714, 49.274890 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "664", "accumDst": 5312.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147711, 49.274962 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "665", "accumDst": 5320.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147708, 49.275034 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "666", "accumDst": 5328.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147706, 49.275106 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "667", "accumDst": 5336.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147703, 49.275178 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "668", "accumDst": 5344.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147700, 49.275250 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "669", "accumDst": 5352.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147698, 49.275322 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "670", "accumDst": 5360.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147756, 49.275355 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "671", "accumDst": 5368.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147866, 49.275356 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "672", "accumDst": 5376.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.147976, 49.275357 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "673", "accumDst": 5384.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.148086, 49.275359 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "674", "accumDst": 5392.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.148196, 49.275360 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "675", "accumDst": 5400.000000, "temp": "via-expo", "elevation-n-vancouver": 11.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.148306, 49.275361 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "676", "accumDst": 5408.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.148415, 49.275362 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "677", "accumDst": 5416.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.148525, 49.275363 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "678", "accumDst": 5424.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.148635, 49.275364 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "679", "accumDst": 5432.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.148745, 49.275366 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "680", "accumDst": 5440.000000, "temp": "via-expo", "elevation-n-vancouver": 10.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.148855, 49.275367 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "681", "accumDst": 5448.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.148965, 49.275368 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "682", "accumDst": 5456.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.149074, 49.275369 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "683", "accumDst": 5464.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.149184, 49.275370 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "684", "accumDst": 5472.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.149294, 49.275371 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "685", "accumDst": 5480.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.149404, 49.275373 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "686", "accumDst": 5488.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.149514, 49.275374 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "687", "accumDst": 5496.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.149624, 49.275375 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "688", "accumDst": 5504.000000, "temp": "via-expo", "elevation-n-vancouver": 9.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.149733, 49.275376 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "689", "accumDst": 5512.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.149843, 49.275377 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "690", "accumDst": 5520.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.149953, 49.275378 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "691", "accumDst": 5528.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.150063, 49.275380 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "692", "accumDst": 5536.000000, "temp": "via-expo", "elevation-n-vancouver": 8.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.150173, 49.275381 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "693", "accumDst": 5544.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.150282, 49.275382 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "694", "accumDst": 5552.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.150392, 49.275383 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "695", "accumDst": 5560.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.150502, 49.275384 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "696", "accumDst": 5568.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.150612, 49.275385 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "697", "accumDst": 5576.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.150722, 49.275387 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "698", "accumDst": 5584.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.150832, 49.275388 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "699", "accumDst": 5592.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.150941, 49.275389 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "700", "accumDst": 5600.000000, "temp": "via-expo", "elevation-n-vancouver": 7.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.151051, 49.275390 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "701", "accumDst": 5608.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.151161, 49.275391 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "702", "accumDst": 5616.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.151271, 49.275392 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "703", "accumDst": 5624.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.151381, 49.275394 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "704", "accumDst": 5632.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.151491, 49.275395 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "705", "accumDst": 5640.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.151600, 49.275396 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "706", "accumDst": 5648.000000, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.151710, 49.275397 ] } }
+,
+{ "type": "Feature", "properties": { "pointNum": "707", "accumDst": 5655.217958, "temp": "via-expo", "elevation-n-vancouver": 6.000000, "elevation-s-vancouver": -2147480000.000000 }, "geometry": { "type": "Point", "coordinates": [ -123.151809, 49.275398 ] } }
+
+]
+}

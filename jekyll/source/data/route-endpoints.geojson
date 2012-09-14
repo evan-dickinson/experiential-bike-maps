@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "type": "start", "route": "to-kits" }, "geometry": { "type": "Point", "coordinates": [ -123.087217, 49.279258 ] } }
+,
+{ "type": "Feature", "properties": { "type": "end", "route": "to-kits" }, "geometry": { "type": "Point", "coordinates": [ -123.151798, 49.275405 ] } }
+,
+{ "type": "Feature", "properties": { "type": "end", "route": "to-cedar" }, "geometry": { "type": "Point", "coordinates": [ -123.078003, 49.251738 ] } }
+,
+{ "type": "Feature", "properties": { "type": "start", "route": "to-cedar" }, "geometry": { "type": "Point", "coordinates": [ -123.068055, 49.214556 ] } }
+
+]
+}

@@ -1,0 +1,55 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "routes": "via-inverness", "filename": "via-inverness--football-ptich.jpg", "offset_direction": "west" }, "geometry": { "type": "Point", "coordinates": [ -123.084792, 49.230970 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-inverness", "filename": "via-inverness--pilgrim-baptist.jpg", "offset_direction": "west" }, "geometry": { "type": "Point", "coordinates": [ -123.079938, 49.229042 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-inverness", "filename": "via-inverness--glen-park.jpg", "offset_direction": "north" }, "geometry": { "type": "Point", "coordinates": [ -123.082948, 49.249547 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-inverness", "filename": "via-inverness--big-trees.jpg", "offset_direction": "east" }, "geometry": { "type": "Point", "coordinates": [ -123.084045, 49.244641 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-inverness", "filename": "via-inverness--richmond-view.jpg", "offset_direction": "south" }, "geometry": { "type": "Point", "coordinates": [ -123.080124, 49.214675 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-dumfries", "filename": "via-dumfries--garden-house.jpg", "offset_direction": "east" }, "geometry": { "type": "Point", "coordinates": [ -123.071706, 49.227712 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-dumfries", "filename": "via-dumfries--kensington-sign.jpg", "offset_direction": "west" }, "geometry": { "type": "Point", "coordinates": [ -123.074149, 49.236977 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-dumfries", "filename": "house-of-dosas.jpg", "offset_direction": "north" }, "geometry": { "type": "Point", "coordinates": [ -123.076118, 49.250236 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-dumfries", "filename": "dumfries-view.jpg", "offset_direction": "east" }, "geometry": { "type": "Point", "coordinates": [ -123.073623, 49.240205 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-first via-pacific", "filename": "union-and-main.jpg", "offset_direction": "south" }, "geometry": { "type": "Point", "coordinates": [ -123.098435, 49.277635 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-first via-pacific", "filename": "strathcona-house.jpg", "offset_direction": "south" }, "geometry": { "type": "Point", "coordinates": [ -123.093586, 49.277569 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-pacific", "filename": "north-false-creek-path.jpg", "offset_direction": "south" }, "geometry": { "type": "Point", "coordinates": [ -123.118589, 49.273298 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-pacific via-expo", "filename": "molson.jpg", "offset_direction": "north" }, "geometry": { "type": "Point", "coordinates": [ -123.144923, 49.272965 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-expo via-pacific", "filename": "burrard-bridge.jpg", "offset_direction": "north" }, "geometry": { "type": "Point", "coordinates": [ -123.138228, 49.275089 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-first via-expo via-pacific", "filename": "kits-house.jpg", "offset_direction": "west" }, "geometry": { "type": "Point", "coordinates": [ -123.147801, 49.273727 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-expo", "filename": "chinatown-traffic.jpg", "offset_direction": "north" }, "geometry": { "type": "Point", "coordinates": [ -123.097200, 49.279437 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-expo", "filename": "strathcona-mural.jpg", "offset_direction": "north" }, "geometry": { "type": "Point", "coordinates": [ -123.090436, 49.279316 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-pacific", "filename": "false-creek-peds.jpg", "offset_direction": "south" }, "geometry": { "type": "Point", "coordinates": [ -123.105024, 49.275722 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-first", "filename": "science-world-peds.jpg", "offset_direction": "east" }, "geometry": { "type": "Point", "coordinates": [ -123.102899, 49.272313 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-first", "filename": "first-ave-construction.jpg", "offset_direction": "south" }, "geometry": { "type": "Point", "coordinates": [ -123.108044, 49.270268 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-first", "filename": "first-ave-view.jpg", "offset_direction": "north" }, "geometry": { "type": "Point", "coordinates": [ -123.132033, 49.266676 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-first", "filename": "narrow-path.jpg", "offset_direction": "south" }, "geometry": { "type": "Point", "coordinates": [ -123.135565, 49.267588 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-first", "filename": "traffic-and-garden.jpg", "offset_direction": "south" }, "geometry": { "type": "Point", "coordinates": [ -123.141476, 49.270896 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-pacific via-expo", "filename": "pacific-tower.jpg", "offset_direction": "north" }, "geometry": { "type": "Point", "coordinates": [ -123.121333, 49.274047 ] } }
+,
+{ "type": "Feature", "properties": { "routes": "via-expo", "filename": "expo-traffic.jpg", "offset_direction": "north" }, "geometry": { "type": "Point", "coordinates": [ -123.109116, 49.278510 ] } }
+
+]
+}

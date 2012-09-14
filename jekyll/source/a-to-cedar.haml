@@ -1,0 +1,60 @@
+---
+title: 1856 E 61st Ave to Clark Drive &amp; Kingsway
+layout: map
+js: /js/a-to-cedar.js
+css: /css/a-to-cedar.css
+
+
+start: 1856 E 61st Ave
+end: Clark Drive &amp; E 21st Ave
+---
+#route-descriptions
+  %h1 Possible Routes
+  .option.one.selected{'data-route' => 'via-dumfries'}
+    .label.clickable
+      .selection-arrow
+    .content
+      .route-name Argyle &amp; Dumfries
+      .route-logistics 4.9km, 21 mins
+    .clear
+    .label Districts 
+    .content
+      %table.districts
+        %tr{'data-district' => 'fraserview'}
+          %td 
+            %img{'src' => '/img/line-drawings_fraserview.png'}
+          %td Fraserview
+        %tr{'data-district' => 'kensington'}
+          %td 
+            %img{'src' => '/img/line-drawings_kensington.png'}
+          %td Kensington
+        %tr{'data-district' => 'kingsway'}
+          %td 
+            %img{'src' => '/img/line-drawings_kingsway.png'}
+          %td Kingsway
+    .clear
+    
+  .option.two{'data-route' => 'via-inverness'}
+    .label.clickable
+      .selection-arrow
+    .content
+      .route-name Inverness &amp; Windsor
+      .route-logistics 5.7km, 27 mins
+    .clear
+    .label Districts 
+    .content
+      %table.districts
+        %tr{'data-district' => 'fraserview'}
+          %td 
+            %img{'src' => '/img/line-drawings_fraserview.png'}
+          %td Fraserview
+        %tr{'data-district' => 'kensington'}
+          %td 
+            %img{'src' => '/img/line-drawings_kensington.png'}
+          %td Kensington
+    .clear
+
+
+{% include to-cedar-directions.haml %}
+{% include legend-a.haml %}
+

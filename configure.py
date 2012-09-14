@@ -3,14 +3,11 @@
 ## OPEN STREETS CONFIGURATION OPTIONS ##
 
 # PostGIS connection setup
-dbname   = "osm"
-# leave the below as empty
-# string unless you know have
-# custom authentication needs
-host     = "" # localhost
-port     = "" # 5432
-user     = "" # postgres
-password = ""
+host     = "localhost" # localhost
+port     = "5432" # 5432
+dbname   = "gis"
+user     = "postgres" # postgres
+password = "PASSWORD"
 
 # Land shapefiles required for the style. If you have already downloaded
 # these or wish to use different versions, specify their paths here.
@@ -24,8 +21,8 @@ password = ""
 
 ## these lines will look for these shapefiles locally,
 ## assuming you downloaded them manually into the open-streets/layer directory
-processed_p = "./layers/processed_p.shp"
-shoreline_300 = "./layers/shoreline_300.shp"
+processed_p = "~/map-data/processed_p.shp"
+shoreline_300 = "~/map-data/shoreline_300.shp"
 
 # For postgres layers mapnik by default will query postgis for the
 # extent to know whether to process the layer during rendering
@@ -33,11 +30,8 @@ shoreline_300 = "./layers/shoreline_300.shp"
 # specifying a bounding box in the format of "XMIN,YMIN,XMAX,YMAX" in the
 # same units as the database (probably spherical mercator meters). The
 # whole world is "-20037508.34,-20037508.34,20037508.34,20037508.34".
-extent = "-20037508.34,-20037508.34,20037508.34,20037508.34"
-
-# osm2pgsql table prefix - only change this is you explicitly imported
-# with a custom prefix (--prefix)
-prefix = 'planet_osm'
+# extent = "-20037508.34,-20037508.34,20037508.34,20037508.34"
+extent = "-13731707,6302562,-13669125,6338447"
 
 # if you have > 2GB mem, turn this on for slightly faster rendering
 feat_caching = True
@@ -48,7 +42,7 @@ import json
 from sys import path
 from os.path import join
 
-mml = join(path[0], 'open-streets/project.mml')
+mml = join(path[0], 'open-streets/open-streets.mml')
 
 with open(mml, 'r') as f:
   newf = json.loads(f.read())
@@ -68,8 +62,6 @@ with open(mml, 'w') as f:
         layer["Datasource"]["password"] = password
         layer["Datasource"]["extent"] = extent
         layer["Datasource"]["srid"] = 900913
-        if prefix != 'planet_osm':
-            layer["Datasource"]["table"] = layer["Datasource"]["table"].replace('planet_osm',prefix)
     ds_file = layer["Datasource"].get("file")
     if ds_file:
         if layer["id"] == "shoreline_300":

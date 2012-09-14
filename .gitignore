@@ -1,1 +1,17 @@
 .DS_Store
+a-no-labels/layers
+a-only-labels/layers
+a-base/layers
+b-no-labels/layers
+b-only-labels/layers
+b-base/layers
+b-*/layers
+
+*~
+.fuse*
+.thumb.png
+._*
+
+jekyll/.sass-cache
+jekyll/source/css
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="42px" height="22px" viewBox="0 0 42 22" enable-background="new 0 0 42 22" xml:space="preserve">
+<g id="Main_st">
+	<g>
+		<path fill="#FFFFFF" d="M8,21.5c-4.136,0-7.5-3.364-7.5-7.5V8c0-4.136,3.364-7.5,7.5-7.5h26c4.136,0,7.5,3.364,7.5,7.5v6
+			c0,4.136-3.364,7.5-7.5,7.5H8z"/>
+		<path fill="#231F20" d="M34,1c3.859,0,7,3.14,7,7v6c0,3.859-3.141,7-7,7H8c-3.86,0-7-3.141-7-7V8c0-3.86,3.14-7,7-7H34 M34,0H8
+			C3.6,0,0,3.6,0,8v6c0,4.4,3.6,8,8,8h26c4.4,0,8-3.6,8-8V8C42,3.6,38.4,0,34,0L34,0z"/>
+	</g>
+	<g>
+		<path id="path3330" d="M9,9c0,0.552-0.447,1-1,1S7,9.552,7,9s0.447-1,1-1S9,8.448,9,9z"/>
+		<path id="path3334" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M7,14.09c1-2,3-3,4-1
+			s3,1,4-1"/>
+		<path id="path3338" d="M15,8.5c0,0.829-0.672,1.5-1.5,1.5S12,9.329,12,8.5S12.672,7,13.5,7S15,7.671,15,8.5z"/>
+		<g id="use3280" transform="translate(16,16)">
+			<path id="path3270_4_" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" d="M2.083-4.75
+				c0,3.866-3.134,7-7,7s-7-3.134-7-7s3.134-7,7-7S2.083-8.616,2.083-4.75z"/>
+		</g>
+	</g>
+</g>
+</svg>

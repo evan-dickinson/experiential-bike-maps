@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px"
+	 height="12px" viewBox="0 0 16 12" enable-background="new 0 0 16 12" xml:space="preserve">
+<symbol  id="New_Symbol_243" viewBox="-7.812 -6 15.624 12">
+	<path d="M3.827-5.231C3.476-5.654,2.737-6,2.188-6h-9c-0.55,0-1,0.45-1,1V5c0,0.55,0.45,1,1,1h9c0.55,0,1.288-0.346,1.64-0.769
+		l3.721-4.463c0.352-0.423,0.352-1.114,0-1.537L3.827-5.231z"/>
+</symbol>
+<g id="Layer_1">
+	<path d="M11.92,11.231C11.56,11.654,10.804,12,10.24,12H1.024C0.461,12,0,11.55,0,11V1c0-0.55,0.461-1,1.024-1h9.216
+		c0.563,0,1.319,0.346,1.68,0.769l3.81,4.463c0.36,0.423,0.36,1.114,0,1.537L11.92,11.231z"/>
+</g>
+<g id="Style_A" display="none">
+	
+		<use xlink:href="#New_Symbol_243"  width="15.624" height="12" x="-7.812" y="-6" transform="matrix(1.0241 0 0 -1 8 6)" display="inline" overflow="visible"/>
+</g>
+</svg>

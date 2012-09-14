@@ -1,0 +1,41 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "pkuid": 1, "mood": "trapped!", "description": "In rush hour, this is a seriously shitty place to ride. You can either sit in traffic behind the cars, or squeeze between them while they change lanes.", "offset_direction": "east", "routes": "via-pacific via-expo", "id": "pacific-traffic" }, "geometry": { "type": "Point", "coordinates": [ -123.129180, 49.274984 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 2, "mood": "beautiful", "description": "Pretty views of False Creek. But go slow -- lots of pedestrians!", "offset_direction": "south", "routes": "via-pacific", "id": "north-false-creek" }, "geometry": { "type": "Point", "coordinates": [ -123.109110, 49.274992 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 4, "mood": "alert", "description": "Lots of construction. Look out for junk on the road -- you don't want a flat.", "offset_direction": "north", "routes": "via-first", "id": "junk-on-first" }, "geometry": { "type": "Point", "coordinates": [ -123.109786, 49.270290 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 5, "mood": "confusing", "description": "It's easy to lose the bikeway around here. Watch for the signs.", "offset_direction": "north", "routes": "via-first", "id": "first-turn" }, "geometry": { "type": "Point", "coordinates": [ -123.140863, 49.270792 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 6, "mood": "alert!", "description": "Be careful in front of Costco. Lots of people getting in & out of their cars.", "offset_direction": "north", "routes": "via-expo", "id": "costco" }, "geometry": { "type": "Point", "coordinates": [ -123.112243, 49.277869 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 7, "mood": "trapped", "description": "Officially, a bike route. Really, a narrow street with lotta cars.", "offset_direction": "north", "routes": "via-expo", "id": "chinatown" }, "geometry": { "type": "Point", "coordinates": [ -123.098557, 49.279488 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 8, "mood": "alert", "description": "You're riding to the right of parked cars. Don't get doored!", "offset_direction": "north", "routes": "via-expo via-pacific", "id": "pacific-doored" }, "geometry": { "type": "Point", "coordinates": [ -123.121836, 49.273965 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 9, "mood": "exhilaration", "description": "Go fast! Bomb down the bridge!", "offset_direction": "west", "routes": "via-pacific via-expo", "id": "burrard-bridge" }, "geometry": { "type": "Point", "coordinates": [ -123.137765, 49.275319 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 10, "mood": "beautiful", "description": "The new Olympic village is pretty, even if it cost way too much.\t", "offset_direction": "north", "routes": "via-first", "id": "olympic-village" }, "geometry": { "type": "Point", "coordinates": [ -123.107220, 49.271058 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 11, "mood": "fast", "description": "Few cars. Go ahead and blow through the stop signs.", "offset_direction": "north", "routes": "via-first", "id": "first-is-fast" }, "geometry": { "type": "Point", "coordinates": [ -123.118371, 49.267036 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 12, "mood": "relaxed", "description": "A good alternative. Fewer pedestrians than the seawall; fewer cars than 7th. A few nice views.", "offset_direction": "south", "routes": "via-first", "id": "first-is-relaxed" }, "geometry": { "type": "Point", "coordinates": [ -123.121915, 49.266239 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 13, "mood": "exhilaration", "description": "Going into town, you can totally keep up with the cars on Kingsway. Take the lane and push it!", "offset_direction": "north", "routes": "via-dumfries", "id": "kingsway-speed" }, "geometry": { "type": "Point", "coordinates": [ -123.074247, 49.249434 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 14, "mood": "unconstrained", "description": "Nice downhill. Pretty views.", "offset_direction": "east", "routes": "via-dumfries", "id": "dumfries-views" }, "geometry": { "type": "Point", "coordinates": [ -123.073609, 49.241031 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 15, "mood": "unwelcome", "description": "Inattentive drivers going fast around a corner. Not bike friendly.", "offset_direction": "east", "routes": "via-dumfries", "id": "argyle-cars" }, "geometry": { "type": "Point", "coordinates": [ -123.069804, 49.219054 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 16, "mood": "confusing", "description": "The bikeway turns left at a nondistinct corner. Watch for the (small) sign.", "offset_direction": "north", "routes": "via-inverness", "id": "inverness-turn" }, "geometry": { "type": "Point", "coordinates": [ -123.079870, 49.230869 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 17, "mood": "unconstrained", "description": "quiet streets. not a lot of stops.", "offset_direction": "west", "routes": "via-inverness", "id": "inverness-quiet" }, "geometry": { "type": "Point", "coordinates": [ -123.084720, 49.237168 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 18, "mood": "beautiful", "description": "Huge old trees. Lots of cherry blossoms, too.", "offset_direction": "west", "routes": "via-inverness", "id": "inverness-trees" }, "geometry": { "type": "Point", "coordinates": [ -123.084003, 49.243500 ] } }
+,
+{ "type": "Feature", "properties": { "pkuid": 19, "mood": "fun", "description": "Stop and watch a cricket match for a while.", "offset_direction": "south", "routes": "via-inverness", "id": "memorial-south-park" }, "geometry": { "type": "Point", "coordinates": [ -123.084792, 49.230970 ] } }
+
+]
+}

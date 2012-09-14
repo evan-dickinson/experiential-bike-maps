@@ -1,0 +1,94 @@
+---
+title: Hawkes &amp; Keefer to Whyte &amp; Arbutus [A]
+layout: map
+js: /js/a-to-kits.js
+css: /css/a-to-kits.css
+
+
+start: Hawkes &amp; Keefer
+end: Whyte &amp; Arbutus
+
+---
+
+#route-descriptions
+  %h1 Possible Routes
+  .option.one.selected{'data-route' => 'via-pacific'} 
+    .label.clickable
+      .selection-arrow
+    .content
+      .route-name Pacific Blvd
+      .route-logistics 6.1km, 23 mins
+    .clear
+    .label Districts 
+    .content
+      %table.districts
+        %tr{'data-district' => 'strathcona'}
+          %td 
+            %img{'src' => '/img/line-drawings_strathcona.png'}
+          %td Strathcona
+        %tr{'data-district' => 'east-false-creek'}
+          %td 
+            %img{'src' => '/img/line-drawings_false-creek.png'}
+          %td East False Creek
+        %tr{'data-district' => 'yaletown'}
+          %td 
+            %img{'src' => '/img/line-drawings_yaletown.png'}
+          %td Yaletown
+        %tr{'data-district' => 'kits-point'}
+          %td 
+            %img{'src' => '/img/line-drawings_kits.png'}
+          %td Kits Point
+    .clear
+
+
+  .option.two{'data-route' => 'via-first'}
+    .label.clickable
+      .selection-arrow
+    .content
+      .route-name W 1st Ave
+      .route-logistics 6.7km, 25 mins
+    .clear
+    .label Districts 
+    .content
+      %table.districts
+        %tr{'data-district' => 'strathcona'}
+          %td 
+            %img{'src' => '/img/line-drawings_strathcona.png'}
+          %td Strathcona
+        %tr{'data-district' => 'charleson'}
+          %td 
+            %img{'src' => '/img/line-drawings_charleson.png'}
+          %td Charleson
+        %tr{'data-district' => 'kits-point'}
+          %td 
+            %img{'src' => '/img/line-drawings_kits.png'}
+          %td Kits Point
+    .clear
+
+  .option.two{'data-route' => 'via-expo'}
+    .label.clickable
+      .selection-arrow
+    .content
+      .route-name Expo Blvd
+      .route-logistics 5.7km, 22 mins
+    .clear
+    .label Districts 
+    .content
+      %table.districts
+        %tr{'data-district' => 'chinatown'}
+          %td 
+            %img{'src' => '/img/line-drawings_chinatown.png'}
+          %td Chinatown
+        %tr{'data-district' => 'yaletown'}
+          %td 
+            %img{'src' => '/img/line-drawings_yaletown.png'}
+          %td Yaletown
+        %tr{'data-district' => 'kits-point'}
+          %td 
+            %img{'src' => '/img/line-drawings_kits.png'}
+          %td Kits Point
+    .clear
+
+
+{% include to-kits-directions.haml %}
+{% include legend-a.haml %}

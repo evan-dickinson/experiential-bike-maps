@@ -1,0 +1,92 @@
+image_widths = {
+  :thumbnail => '100^',
+  :tiny      => '50^',
+  :expanded  => '600^',
+}
+
+out_dir = 'source/img/processed'
+directory out_dir
+
+FileList.new('source/img/photos/*.{jpg,JPG}').each do |full_filename|
+  basename = File.basename(full_filename)
+  # Always omit the filename in lowercase, even if an all-uppercase filename snuck in.
+  basename.downcase!
+
+  thumbnail_filename = out_dir + '/thumb-' + basename
+  tiny_filename      = out_dir + '/tiny-' + basename
+  expanded_filename  = out_dir + '/expanded-' + basename
+
+  file thumbnail_filename => [full_filename, out_dir] do |t|
+    sh 'convert', 
+        full_filename,
+        '-thumbnail', image_widths[:thumbnail].to_s,
+        thumbnail_filename
+  end
+  multitask :thumbnail => thumbnail_filename
+
+  file tiny_filename => [full_filename, out_dir] do |t|
+    sh 'convert', 
+        full_filename,
+        '-thumbnail', image_widths[:tiny].to_s,
+        tiny_filename
+  end
+  multitask :tiny => tiny_filename
+
+  file expanded_filename => [full_filename, out_dir] do |t|
+    sh 'convert', 
+        full_filename,
+        '-thumbnail', image_widths[:expanded].to_s,
+        expanded_filename
+  end
+  multitask :expanded => expanded_filename
+end
+
+multitask :default => [:thumbnail, :tiny, :expanded]
+
+
+################################################
+#
+# Make GEOJSON files
+#
+# @@@ This doesn't work; the resulting files don't load.
+# Not sure why.
+spatialite_files = 
+  [
+   { 
+     :file => 'images.sqlite',
+     :srs => 'EPSG:4326', # WGS84
+   },
+   { 
+     :file => 'rider-comments.sqlite',
+     :srs => 'EPSG:3452', # Somehow this ended up as NAD83/Louisiana South
+   },
+  ]
+
+
+spatialite_dir = 'source/data'
+geojson_dir = File.join(spatialite_dir, 'generated')
+directory geojson_dir
+
+spatialite_files.each do |file_info|
+  source_file = File.join(spatialite_dir, file_info[:file])
+  
+  target_file = File.join(geojson_dir, file_info[:file])
+  target_file.gsub!(/sqlite$/, 'geojson')
+
+  file target_file => [source_file, geojson_dir] do |t|
+    # ogr2ogr won't overwrite for geojson files.
+    if File.exists? target_file then
+      rm target_file
+    end
+
+    sh 'ogr2ogr',
+      '-s_srs', file_info[:srs], # source SRS
+      '-t_srs', 'EPSG:4326',     # target is always WGS84
+      '-f',     'GeoJSON',
+      target_file,
+      source_file
+  end
+  task :geojson => target_file
+
+end
+#task :default => :geojson

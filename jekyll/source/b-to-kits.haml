@@ -1,0 +1,69 @@
+---
+title: Hawkes &amp; Keefer to Whyte &amp; Arbutus [B]
+layout: map
+js: /js/b-to-kits.js
+css: /css/b-to-kits.css
+
+start: Hawkes &amp; Keefer
+end: Whyte &amp; Arbutus
+
+---
+#route-descriptions
+  %h1 Possible Routes
+  .option.one.selected{'data-route' => 'via-pacific'} 
+    .label.clickable
+      .selection-arrow
+    .content
+      .route-name Pacific Blvd
+      .route-logistics 6.1km, 23 mins
+    .clear
+    .label Hills
+    .content.route-scrubber
+      %img{'src' => '/img/elevation_via-pacific.png'}    
+      .position-indicator.hills
+    .clear
+    .label Traffic
+    .content.route-scrubber
+      %img{'src' => '/img/traffic_via-pacific.png'}    
+      .position-indicator.traffic
+    .clear
+
+  .option.two{'data-route' => 'via-first'}
+    .label.clickable
+      .selection-arrow
+    .content
+      .route-name W 1st Ave
+      .route-logistics 6.7km, 25 mins
+    .clear
+    .label Hills
+    .content.route-scrubber
+      %img.hills{'src' => '/img/elevation_via-first.png'}  
+      .position-indicator.hills
+    .clear
+    .label Traffic
+    .content.route-scrubber
+      %img.traffic{'src' => '/img/traffic_via-first.png'}  
+      .position-indicator.traffic
+    .clear
+
+  .option.two{'data-route' => 'via-expo'}
+    .label.clickable
+      .selection-arrow
+    .content
+      .route-name Expo Blvd
+      .route-logistics 5.7km, 22 mins
+    .clear
+    .label Hills
+    .content.route-scrubber
+      %img.hills{'src' => '/img/elevation_via-expo.png'}  
+      .position-indicator.hills
+    .clear
+    .label Traffic
+    .content.route-scrubber
+      %img.traffic{'src' => '/img/traffic_via-expo.png'}  
+      .position-indicator.traffic
+    .clear
+
+
+{% include to-kits-directions.haml %}
+{% include legend-b.haml %}
